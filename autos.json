@@ -1,0 +1,41 @@
+{
+	"autos": [
+
+
+	{
+	"marke": "Lexus",
+	"farbe": "schwarz",
+	"ps": 223,
+	"preis": 17500
+	},
+
+		{
+	"marke": "Lexus",
+	"farbe": "weiß",
+	"ps": 487,
+	"preis": 66000
+	},
+
+		{
+	"marke": "Porsche",
+	"farbe": "grau",
+	"ps": 450,
+	"preis": 120000
+	},
+
+		{
+	"marke": "Mercedes",
+	"farbe": "weiß",
+	"ps": 500,
+	"preis": 95000
+	},
+
+		{
+	"marke": "Ferrari",
+	"farbe": "rot",
+	"ps": 700,
+	"preis": 320000
+	}
+
+	]
+}

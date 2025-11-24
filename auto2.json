@@ -1,0 +1,64 @@
+{
+  "autos": [
+    {
+      "marke": "Lexus",
+      "farbe": "schwarz",
+      "ps": 223,
+      "preis": 17500
+    },
+    {
+      "marke": "Lexus",
+      "farbe": "weiß",
+      "ps": 487,
+      "preis": 66000
+    },
+    {
+      "marke": "Porsche",
+      "farbe": "grau",
+      "ps": 450,
+      "preis": 120000
+    },
+    {
+      "marke": "Mercedes",
+      "farbe": "weiß",
+      "ps": 500,
+      "preis": 95000
+    },
+    {
+      "marke": "Ferrari",
+      "farbe": "rot",
+      "ps": 700,
+      "preis": 320000
+    },
+    {
+      "marke": "BMW",
+      "farbe": "blau",
+      "ps": 340,
+      "preis": 54000
+    },
+    {
+      "marke": "Audi",
+      "farbe": "schwarz",
+      "ps": 310,
+      "preis": 48000
+    },
+    {
+      "marke": "VW",
+      "farbe": "weiß",
+      "ps": 150,
+      "preis": 19000
+    },
+    {
+      "marke": "Toyota",
+      "farbe": "rot",
+      "ps": 180,
+      "preis": 21000
+    },
+    {
+      "marke": "Bentley",
+      "farbe": "silber",
+      "ps": 550,
+      "preis": 230000
+    }
+  ]
+}
