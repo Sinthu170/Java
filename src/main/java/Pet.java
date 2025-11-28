@@ -20,4 +20,9 @@ public class Pet {
     public int getAge() {
         return age;
     }
+
+    public void makeSound () {
+        System.out.println("Grrrrr");
+    }
+
 }
